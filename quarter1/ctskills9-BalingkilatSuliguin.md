@@ -19,13 +19,13 @@ Main Problem: The small size of the PSHS canteen causes frequent crowding and de
 
 # Step 3: Applying Computational Thinking Skills
 |Sub Problem|CT Skill|Proposed Solution|
-||||
+|-|-|-|
 |1. Slow Ordering|Abstraction|Create a digital menu that clearly displays the names, pictures, and the prices.|
-||||
+|-|-|-|
 |2. Manual Calculations|Algorithm Design|Develop software that accepts item quantities, automatically computes the total cost, and calculates exact change.|
-||||
+|-|-|-|
 |3. No Proper Inventory Trafficking|Algorithm Design|Develop another software that works with SP#2. It tracks the stock of each item and changes every time items were computed in SP#2.|
-||||
+|-|-|-|
 |4. Massive Queues|Decomposition|Break the ordering process into distinct phases: pre-ordering, paying, and when to pick up the food.|
 
 # Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
