@@ -12,4 +12,13 @@ Main Problem: The small size of the PSHS canteen makes it prone to frequent crow
 2. Manual Calculations: Cashiers have to calculate the total item price and their respective changes manually, which takes some additional time.
 3. Deficit on Inventory Tracking: There is no system that tracks if a certain item is running out or is officially out of stock.
 4. Queue Congestion: The line where students go through lacks a pre-ordering mechanism to speed up the process.
-
+# Step 3: Applying Computational Thinking Skills
+|Sub Problem|CT Skill|Proposed Solution|
+|-|-|-|
+|1. Ordering Inefficiency|Abstraction|Create a digital interface that would display important pieces of data, which includes item descriptions and prices|
+|-|-|-|
+|2. Manual Calculations|Algorithm Design|Design an algorithm that would accept item prices and their quantities, provide the total price of the order and exact changes based on how much the customer gives.|
+|-|-|-|
+|3. Deficit on Inventory Tracking|Abstraction|Use structured dictionaries or JSON files to consistently update data on items that are running out or out of stock.|
+|-|-|-|
+|4. Queue Congestion|Decomposition|Divide the process of ordering items into: pre-ordering, payment of designated items and when to pick-up the items from the counter|
