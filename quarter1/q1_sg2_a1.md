@@ -1,5 +1,7 @@
 # SG2 - Activity 1: Computational Thinking Exercise
 - 9-Balingkilat
+- #13 - Rivera, Chester Gabriel A.
+- #14 - Sicat, Charles Mabi P.
 - #15 - Suliguin, Jose Santiago T.
 # Scenario: PSHS School Canteen
 # Step 1 : Identifying The Big Problem
