@@ -31,3 +31,7 @@ FA 5 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/q1_sg5_a1_9-Baling
 FA 6 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/q1_sg6_9-Balingkilat_Suliguin.py
 
 FA 7 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/q1_sg7_9-Balingkilat_Suliguin.py
+
+## Summative Assessment Code:
+
+Quarter 1 Summative Assessment -https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/Q1_SummativeAssessment_Copy.py
