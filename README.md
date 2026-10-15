@@ -35,3 +35,11 @@ FA 7 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/q1_sg7_9-Balingkil
 ## Summative Assessment Code:
 
 Quarter 1 Summative Assessment -https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/Q1_SummativeAssessment_Copy.py
+
+# Second Quarter
+
+## Sample Codes:
+
+Encapsulation Human Code (Set and Getter Variation) -
+
+Encapsulation Human Code (@Property Variation) -
