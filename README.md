@@ -16,7 +16,7 @@ TusokTusok - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/TusokTusok.p
 
 Cell - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/Cell.py
 
-## FA Codes:
+## Formative Assessment Codes:
 
 FA 1 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/q1_sg2_a1.md
 
@@ -43,3 +43,7 @@ Quarter 1 Summative Assessment Sample Code - https://github.com/Sharky-Goomy/CS3
 Encapsulation Human Code (Set and Getter Variation) -
 
 Encapsulation Human Code (@Property Variation) -
+
+## Formative Assessment Codes:
+
+FA 1 - 
