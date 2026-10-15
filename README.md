@@ -44,6 +44,10 @@ Encapsulation Human Code (Set and Getter Variation) -
 
 Encapsulation Human Code (@Property Variation) -
 
+Animal Sounds Inheritance -
+
+Father and Mother Dual Inheritance -
+
 ## Formative Assessment Codes:
 
 FA 1 - 
