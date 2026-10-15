@@ -40,9 +40,9 @@ Quarter 1 Summative Assessment Sample Code - https://github.com/Sharky-Goomy/CS3
 
 ## Sample Codes:
 
-Encapsulation Human Code (Set and Getter Variation) -
+Encapsulation Human Code (Set and Getter) -
 
-Encapsulation Human Code (@Property Variation) -
+Encapsulation Human Code (@Property) -
 
 Animal Sounds Inheritance -
 
