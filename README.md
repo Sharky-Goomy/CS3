@@ -40,14 +40,14 @@ Quarter 1 Summative Assessment Sample Code - https://github.com/Sharky-Goomy/CS3
 
 ## Sample Codes:
 
-Encapsulation Human Code (Set and Getter) -
+Human Encapsulation (Set and Getter) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Human%20Encapsulation%20(Set%20and%20Getter).py
 
-Encapsulation Human Code (@Property) -
+Human Encapsulation (@Property) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Human%20Encapsulation%20(%40Property).py
 
-Animal Sounds Inheritance -
+Animal Sounds: Inheritance - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Animal%20Sounds%20Inheritance.py
 
-Father and Mother Dual Inheritance -
+ Father and Mother: Dual Inheritance - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Father%20and%20Mother%20Dual%20Inheritance.py
 
 ## Formative Assessment Codes:
 
-FA 1 - 
+FA 1 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/fa1_9-Balingkilat_Suliguin.py
