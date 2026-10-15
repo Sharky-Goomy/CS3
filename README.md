@@ -34,7 +34,7 @@ FA 7 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/q1_sg7_9-Balingkil
 
 ## Summative Assessment Code:
 
-Quarter 1 Summative Assessment -https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/Q1_SummativeAssessment_Copy.py
+Quarter 1 Summative Assessment Sample Code - https://github.com/Sharky-Goomy/CS3/blob/main/quarter1/Q1_SummativeAssessment_Copy.py
 
 # Second Quarter
 
