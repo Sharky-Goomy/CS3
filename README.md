@@ -1,8 +1,8 @@
-# CS3
+# Computer Science 3
 
 CS3 Portfolio
 
-Suliguin, Jose Santiago T.
+#15 - Suliguin, Jose Santiago T.
 
 9-Balingkilat
 
