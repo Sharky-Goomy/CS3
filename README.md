@@ -51,3 +51,5 @@ Animal Sounds: Inheritance - https://github.com/Sharky-Goomy/CS3/blob/main/quart
 ## Formative Assessment Codes:
 
 FA 1 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/fa1_9-Balingkilat_Suliguin.py
+
+FA 2 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/fa2_9-Balingkilat_Suliguin.py
