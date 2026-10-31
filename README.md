@@ -46,7 +46,17 @@ Human Encapsulation (@Property) - https://github.com/Sharky-Goomy/CS3/blob/main/
 
 Animal Sounds: Inheritance - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Animal%20Sounds%20Inheritance.py
 
- Father and Mother: Dual Inheritance - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Father%20and%20Mother%20Dual%20Inheritance.py
+Father and Mother: Dual Inheritance - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Father%20and%20Mother%20Dual%20Inheritance.py
+
+Big Beautiful Bill (Polymorphism) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/BigBeautifulBill%20(Polymorphism).py
+
+Patients (Polymorphism) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Patients%20(Polymorphism).py
+
+Cars and Toilet (Polymorphism) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Cars%20and%20Toilet%20(Polymorphism).py
+
+## Trio Activities (Bernardo, Dogillo, Suliguin):
+
+Potions - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/q1_sg11_a4_9-Balingkilat_Bernardo%2C%20Dogillo%2C%20Suliguin.py
 
 ## Formative Assessment Codes:
 
