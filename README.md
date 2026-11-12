@@ -54,6 +54,8 @@ Patients (Polymorphism) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2
 
 Cars and Toilet (Polymorphism) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Cars%20and%20Toilet%20(Polymorphism).py
 
+Sensor (Abstraction) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Sensor%20(Abstraction).py
+
 ## Trio Activities (Bernardo, Dogillo, Suliguin):
 
 Potions - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/q1_sg11_a4_9-Balingkilat_Bernardo%2C%20Dogillo%2C%20Suliguin.py
@@ -63,3 +65,7 @@ Potions - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/q1_sg11_a4_9-Ba
 FA 1 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/fa1_9-Balingkilat_Suliguin.py
 
 FA 2 - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/fa2_9-Balingkilat_Suliguin.py
+
+FA 3 (Tasks 1-4) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/FA3_9-Balingkilat_Suliguin.py
+
+FA 3 (Task 5) - https://github.com/Sharky-Goomy/CS3/blob/main/quarter2/Task5_9-Balingkilat_Suliguin.png
